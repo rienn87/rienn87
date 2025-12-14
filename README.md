@@ -44,7 +44,7 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?USERNAME=Rienn87&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
