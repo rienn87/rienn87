@@ -1,6 +1,6 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" alt="Banner" />
+  <img src="banner.gif" alt="Banner" />
 </p>
 
 <h1 align="center">Привет, я Александр 👋</h1>
