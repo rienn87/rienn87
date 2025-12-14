@@ -3,8 +3,6 @@
   <img src="banner.gif" alt="Banner" width="1200" />
 </p>
 
-<h1 align="center">Привет, я Александр 👋</h1>
-<h3 align="center">Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rienn87&color=blue" />
@@ -15,7 +13,7 @@
 ## 🛠 Технологии
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,python,docker" />
 </p>
 
 ---
