@@ -44,7 +44,7 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Rienn87=Rienn87&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?USERNAME=Rienn87&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -56,9 +56,5 @@
 ## 📫 Связь со мной
 
 - 💬 Telegram: [@Rienn87](https://t.me/Rienn87)
-- 📧 Email: example@mail.com
-- 💼 LinkedIn: https://linkedin.com/in/Rienn87
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.”
+- 📧 Email: rienn87.s@gmail.com
+- 💼 LinkedIn: NONE
