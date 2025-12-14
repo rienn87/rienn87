@@ -1,13 +1,13 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://your-banner-link.png" alt="Banner" />
+  <img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" alt="Banner" />
 </p>
 
 <h1 align="center">Привет, я Александр 👋</h1>
 <h3 align="center">Student</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" />
+  <img src="https://komarev.com/ghpvc/?username=Rienn87&color=blue" />
 </p>
 
 ---
