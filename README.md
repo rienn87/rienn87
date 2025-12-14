@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Привет, я Александр 👋</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?Rienn87=Rienn87&color=blue" />
@@ -12,32 +12,11 @@
 
 ---
 
-## 👨‍💻 Обо мне
-
-- 🔭 Сейчас работаю над: **пет-проектами и коммерческими задачами**
-- 🌱 Изучаю: **React, Node.js, Docker**
-
----
-
 ## 🛠 Технологии
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,docker" />
 </p>
-
----
-
-## 📌 Проекты
-
-### 🔹 Project Name
-🚀 Краткое описание проекта в 1–2 строки  
-🔗 [Репозиторий](https://github.com/Rienn87/project-name)
-
----
-
-### 🔹 Another Project
-📱 Что делает проект  
-🔗 [Demo](https://demo-link.com) | [Code](https://github.com/Rienn87/project-name)
 
 ---
 
@@ -57,4 +36,3 @@
 
 - 💬 Telegram: [@Rienn87](https://t.me/Rienn87)
 - 📧 Email: rienn87.s@gmail.com
-- 💼 LinkedIn: NONE
