@@ -7,7 +7,7 @@
 <h3 align="center">Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?Rienn87=Rienn87&color=blue" />
+  <img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" />
 </p>
 
 ---
