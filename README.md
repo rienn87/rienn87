@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 GitHub Статистика
+## 📊 Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight" />
@@ -29,4 +29,4 @@
 ## 📫 Связь со мной
 
 - 💬 Telegram: [@Rienn87](https://t.me/Rienn87)
-- 📧 Email: rienn87.s@gmail.com
+- 📧 Email: <a>mailto:rienn87.s@gmail.com<a/>
