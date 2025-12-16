@@ -46,7 +46,7 @@ What problem this project solves
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rienn87&theme=github-dark&card_width=155&card_height=180" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rienn87&theme=github-dark&card_width=155&card_height=180" alt="GitHub Streak" /></a>
 </p>
 
 
