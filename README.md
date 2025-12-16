@@ -10,17 +10,6 @@
 
 ---
 
-## 👨‍🎓 About Me
-
-- 🎓 Computer Science student
-- 🌱 Currently learning **JavaScript, Web Development**
-- 🛠 Interested in **Frontend & Fullstack**
-- 🚀 Building pet projects to improve my skills
-- 📖 Always open to learning new technologies
-
----
-
-## 🛠 Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
@@ -28,19 +17,7 @@
 
 ---
 
-## 📌 Projects
 
-### 🔹 Project Name
-Minimal description of what the project does  
-🔗 [Repository](https://github.com/Rienn87/project-name)
-
----
-
-### 🔹 Another Project
-What problem this project solves  
-🔗 [Code](https://github.com/Rienn87/project-name)
-
----
 
 ## 📊 GitHub Stats
 
