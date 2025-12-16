@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="banner.gif" width="100%" />
 </p>
@@ -9,20 +10,45 @@
 
 ---
 
+## 👨‍🎓 About Me
+
+- 🎓 Computer Science student
+- 🌱 Currently learning **JavaScript, Web Development**
+- 🛠 Interested in **Frontend & Fullstack**
+- 🚀 Building pet projects to improve my skills
+- 📖 Always open to learning new technologies
+
+---
+
+## 🛠 Tech Stack
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
 
+## 📌 Projects
+
+### 🔹 Project Name
+Minimal description of what the project does  
+🔗 [Repository](https://github.com/Rienn87/project-name)
+
+---
+
+### 🔹 Another Project
+What problem this project solves  
+🔗 [Code](https://github.com/Rienn87/project-name)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rienn87&theme=tokyonight&card_width=148&card_height=180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight&card_width=148&card_height=170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rienn87&theme=tokyonight&card_width=148&card_height=170" />
 </p>
 
----
 
 ## 📫 Contact
 
