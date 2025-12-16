@@ -29,4 +29,4 @@
 ## 📫 Связь со мной
 
 - 💬 Telegram: [@Rienn87](https://t.me/Rienn87)
-- 📧 Email: <a>mailto:rienn87.s@gmail.com<a/>
+- 📧 Email: <a href="mailto:rienn87.s@gmail.com">rienn87.s@gmail.com<a/>
