@@ -17,11 +17,11 @@
 ## 📊 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight" /><img src="https://github-readme-streak-stats.herokuapp.com?user=Rienn87&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rienn87&theme=tokyonight" alt="GitHub Streak" /></a>
+
 </p>
 
 ---
