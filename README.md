@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight&card_width=148&card_height=170" />
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rienn87&theme=tokyonight&card_width=148&card_height=170)](https://git.io/streak-stats)0"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rienn87&theme=tokyonight&card_width=148&card_height=170" alt="GitHub Streak" /></a>
 </p>
 
 ---
