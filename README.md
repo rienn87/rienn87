@@ -29,5 +29,5 @@
 
 ## 📫 Contact
 
-- 💬 Telegram: [@username](https://t.me/Rienn87)
+- 💬 Telegram: [@Rienn87](https://t.me/Rienn87)
 - 📧 Email: rienn87.s@gmail.com
