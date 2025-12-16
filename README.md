@@ -45,7 +45,7 @@ What problem this project solves
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Rienn87&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/api?user=Rienn87&theme=tokyonight" />
 </p>
 
 
