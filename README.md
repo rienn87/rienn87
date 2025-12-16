@@ -12,7 +12,7 @@
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,js,git,github,vscode" />
 </p>
 
 ---
