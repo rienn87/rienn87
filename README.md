@@ -48,9 +48,8 @@ What problem this project solves
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rienn87&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📫 Contact
