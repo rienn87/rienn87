@@ -44,7 +44,6 @@ What problem this project solves
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rienn87&show_icons=true&theme=tokyonight" />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Rienn87&theme=tokyonight&card_width=148&card_height=170" alt="GitHub Streak" /></a>
 </p>
 
