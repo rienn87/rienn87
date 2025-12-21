@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="banner.gif" width="100%" />
-</p>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rienn87&color=58a6ff" />
 </p>
