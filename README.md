@@ -5,5 +5,5 @@
 
 ## 📫 Contact
 
-- 💬 Telegram: [@Rienn87](https://t.me/Rienn87)
+- 💬 Telegram: [@Rienn88](https://t.me/Rienn88)
 - 📧 Email: rienn87.s@gmail.com
