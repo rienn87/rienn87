@@ -1,6 +1,6 @@
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,сpp,github,vscode,arch" />
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,arch" />
 </p>
 
 ## 📫 Contact
